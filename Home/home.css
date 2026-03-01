@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Kodchasal';
+  src: url('../assets/TH Kodchasal.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+*{
+    background-color: #EDECDB;
+    margin: 0;
+    padding: 0;
+    font-family: 'Kodchasal';
+}
